@@ -229,9 +229,7 @@ span{
     }
 
     #inspo_form{
-        text-align: left;
-        width: 350px;
-        margin-top: 25px;
+       display: none;
     }
 
         #accordionFlushExample {
@@ -239,4 +237,8 @@ span{
             margin: 0 auto;
             /* Center the FAQ horizontally */
         }
+
+    #hero_title{
+        font-size: 3.0rem;
+    }
 }
